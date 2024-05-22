@@ -31,11 +31,11 @@ Feel free to clone this repo and adapt it for your languages!
 
 ## Accessible with <**Alt Gr**>
 
-![AltGr](img/altgr.png)
+![AltGr](img/alt_gr.png)
 
 ## Accessible with <**Shift + Alt Gr**>
 
-![ShiftAltGr](img/shiftaltgr.png)
+![ShiftAltGr](img/shift_alt_gr.png)
 
 ---
 
